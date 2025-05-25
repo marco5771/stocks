@@ -1,4 +1,4 @@
 ## Equity models
 
-- Stocks are labels by their ticker.
+- Stocks are labeled by their ticker.
 - Some might not trade anymore as they were involved in mergers/delistings/liquidations.
